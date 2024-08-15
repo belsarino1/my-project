@@ -1,0 +1,2 @@
+/cygdrive/c/MinGW/msys/1.0/home/bella/project-test/my-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/MinGW/msys/1.0/home/bella/project-test/my-project/cmake-build-debug/CMakeFiles/edit_cache.dir
